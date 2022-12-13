@@ -2,9 +2,9 @@
 <div class="footer">
            
 			
-		   <p>Website created by Team 4 for practical work 2 of WWW Development Technologies</p>
-		   <p><a href = "contacts.html"> group4-www@onionmail.org</a></p>
-		   <p>Vilnius University, Kaunas Faculty, ISCSen0, 2021-2022</p>
+		   <p>Website created by Meftahul Islam</p>
+		   <p><a href = "contacts.html"> turagmeftahul@gmail.com</a></p>
+		   <p>Vilnius University, Kaunas Faculty, ISCSen0, 2021</p>
    
 			   <i class="fa fa-facebook"></i> 
 			   <i class="fa fa-instagram"></i>
